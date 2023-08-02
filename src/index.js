@@ -7,4 +7,3 @@ module.exports = function reverse(n) {
     console.log(res);
     return Number(res)
 }
-module.exports(152);
